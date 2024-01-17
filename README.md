@@ -15,7 +15,10 @@
 
 ## 🚀 Preview
 
-> Coming soon...
+> [Live Link](https://praisespjmt.github.io/fip-version-control/)
+
+
+![Preview](./assets/preview.png)
 
 ## 💡 Getting Started
 
